@@ -12,4 +12,4 @@ features :-
 7.development mode is enabled.
 
 #Note : 
-first download migration.sql and user.sql because project already in development mode/phase (not in prod).
+first download migration.sql and user.sql because project already in development mode/phase (not in prod) available in last two .sql files.
